@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[slz:home|Door43 (slz)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-slz|d43-slz repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-slz/archive/master.zip|d43-slz.zip]]
+
+**Recent Changes**
+{{changes>ns = slz}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/slz|Ethnologue data]]
+
